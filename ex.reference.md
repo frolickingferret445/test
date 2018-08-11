@@ -66,7 +66,7 @@
 
 | Method Name | Request Type | Response Type | Description |
 | ----------- | ------------ | ------------- | ------------|
-| DeleteBook | [DeleteBookRequest](#example.DeleteBookRequest) | [DeleteBookResponse](#example.DeleteBookRequest) | Deletes a book. |
+| DeleteBook | [DeleteBookRequest](#example.DeleteBookRequest) | [DeleteBookResponse](#example.DeleteBookResponse) | Deletes a book. |
 
  
 
